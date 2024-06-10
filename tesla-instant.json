@@ -1,0 +1,1837 @@
+[
+    {
+        "id": "c-5",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "tsla:OperatingLeaseVehiclesMember",
+        "child": {
+            "us-gaap:DeferredCostsLeasingNetNoncurrent": "5,736"
+        }
+    },
+    {
+        "id": "c-6",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "tsla:OperatingLeaseVehiclesMember",
+        "child": {
+            "us-gaap:DeferredCostsLeasingNetNoncurrent": "5,989"
+        }
+    },
+    {
+        "id": "c-7",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "tsla:SolarEnergySystemsMember",
+        "child": {
+            "tsla:LeasedAssetsNet": "5,162"
+        }
+    },
+    {
+        "id": "c-8",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "tsla:SolarEnergySystemsMember",
+        "child": {
+            "tsla:LeasedAssetsNet": "5,229"
+        }
+    },
+    {
+        "id": "c-22",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:CommonStockMember",
+        "child": {
+            "us-gaap:SharesIssued": "3,185",
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "3"
+        }
+    },
+    {
+        "id": "c-23",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AdditionalPaidInCapitalMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "34,892"
+        }
+    },
+    {
+        "id": "c-24",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AccumulatedOtherComprehensiveIncomeMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "143"
+        }
+    },
+    {
+        "id": "c-25",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:RetainedEarningsMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "27,882"
+        }
+    },
+    {
+        "id": "c-26",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:ParentMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "62,634"
+        }
+    },
+    {
+        "id": "c-27",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:NoncontrollingInterestMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "733"
+        }
+    },
+    {
+        "id": "c-34",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:CommonStockMember",
+        "child": {
+            "us-gaap:SharesIssued": "3,189",
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "3"
+        }
+    },
+    {
+        "id": "c-35",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AdditionalPaidInCapitalMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "35,763"
+        }
+    },
+    {
+        "id": "c-36",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AccumulatedOtherComprehensiveIncomeMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "399"
+        }
+    },
+    {
+        "id": "c-37",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:RetainedEarningsMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "29,011"
+        }
+    },
+    {
+        "id": "c-38",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:ParentMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "64,378"
+        }
+    },
+    {
+        "id": "c-39",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:NoncontrollingInterestMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "729"
+        }
+    },
+    {
+        "id": "c-41",
+        "instant": "2022-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:CommonStockMember",
+        "child": {
+            "us-gaap:SharesIssued": "3,164",
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "3"
+        }
+    },
+    {
+        "id": "c-42",
+        "instant": "2022-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AdditionalPaidInCapitalMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "32,177"
+        }
+    },
+    {
+        "id": "c-43",
+        "instant": "2022-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AccumulatedOtherComprehensiveIncomeMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "361"
+        }
+    },
+    {
+        "id": "c-44",
+        "instant": "2022-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:RetainedEarningsMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "12,885"
+        }
+    },
+    {
+        "id": "c-45",
+        "instant": "2022-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:ParentMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "44,704"
+        }
+    },
+    {
+        "id": "c-46",
+        "instant": "2022-12-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:NoncontrollingInterestMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "785"
+        }
+    },
+    {
+        "id": "c-54",
+        "instant": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:CommonStockMember",
+        "child": {
+            "us-gaap:SharesIssued": "3,169",
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "3"
+        }
+    },
+    {
+        "id": "c-55",
+        "instant": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AdditionalPaidInCapitalMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "32,878"
+        }
+    },
+    {
+        "id": "c-56",
+        "instant": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AccumulatedOtherComprehensiveIncomeMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "225"
+        }
+    },
+    {
+        "id": "c-57",
+        "instant": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:RetainedEarningsMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "15,398"
+        }
+    },
+    {
+        "id": "c-58",
+        "instant": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:ParentMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "48,054"
+        }
+    },
+    {
+        "id": "c-59",
+        "instant": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:NoncontrollingInterestMember",
+        "child": {
+            "us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "774"
+        }
+    },
+    {
+        "id": "c-66",
+        "instant": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveSalesMember",
+        "child": {
+            "us-gaap:ContractWithCustomerLiability": "3.50",
+            "us-gaap:NotesReceivableNet": "241"
+        }
+    },
+    {
+        "id": "c-67",
+        "instant": "2023-12-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveSalesMember",
+        "child": {
+            "us-gaap:ContractWithCustomerLiability": "3.54",
+            "us-gaap:NotesReceivableNet": "242"
+        }
+    },
+    {
+        "id": "c-68",
+        "instant": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveSalesMember",
+        "child": {
+            "us-gaap:RevenueRemainingPerformanceObligation": "848"
+        }
+    },
+    {
+        "id": "c-69",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:OtherNoncurrentAssetsMember",
+        "child": {
+            "us-gaap:NotesReceivableNet": "971"
+        }
+    },
+    {
+        "id": "c-70",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:OtherNoncurrentAssetsMember",
+        "child": {
+            "us-gaap:NotesReceivableNet": "1.04"
+        }
+    },
+    {
+        "id": "c-71",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember",
+        "child": {
+            "us-gaap:SalesTypeLeaseNetInvestmentInLease": "184"
+        }
+    },
+    {
+        "id": "c-72",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember",
+        "child": {
+            "us-gaap:SalesTypeLeaseNetInvestmentInLease": "189"
+        }
+    },
+    {
+        "id": "c-73",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:OtherNoncurrentAssetsMember",
+        "child": {
+            "us-gaap:SalesTypeLeaseNetInvestmentInLease": "446"
+        }
+    },
+    {
+        "id": "c-74",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:OtherNoncurrentAssetsMember",
+        "child": {
+            "us-gaap:SalesTypeLeaseNetInvestmentInLease": "507"
+        }
+    },
+    {
+        "id": "c-75",
+        "instant": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:ContractWithCustomerLiability": "1.78",
+            "us-gaap:NotesReceivableNet": "32"
+        }
+    },
+    {
+        "id": "c-76",
+        "instant": "2023-12-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:ContractWithCustomerLiability": "1.60",
+            "us-gaap:NotesReceivableNet": "31"
+        }
+    },
+    {
+        "id": "c-79",
+        "instant": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:RevenueRemainingPerformanceObligation": "1.00"
+        }
+    },
+    {
+        "id": "c-80",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:OtherNoncurrentAssetsMember",
+        "child": {
+            "us-gaap:NotesReceivableNet": "608"
+        }
+    },
+    {
+        "id": "c-81",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:OtherNoncurrentAssetsMember",
+        "child": {
+            "us-gaap:NotesReceivableNet": "578"
+        }
+    },
+    {
+        "id": "c-84",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:AccountsNotesLoansAndFinancingReceivableByReceivableTypeAxis",
+        "member": "tsla:GovernmentRebatesReceivablesMember",
+        "child": {
+            "us-gaap:AccountsReceivableNetCurrent": "572",
+            "us-gaap:OtherAssetsNoncurrent": "45"
+        }
+    },
+    {
+        "id": "c-85",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:AccountsNotesLoansAndFinancingReceivableByReceivableTypeAxis",
+        "member": "tsla:GovernmentRebatesReceivablesMember",
+        "child": {
+            "us-gaap:AccountsReceivableNetCurrent": "378",
+            "us-gaap:OtherAssetsNoncurrent": "207"
+        }
+    },
+    {
+        "id": "c-86",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:MoneyMarketFundsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "368",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "368",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "—"
+        }
+    },
+    {
+        "id": "c-87",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel1Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "368"
+        }
+    },
+    {
+        "id": "c-88",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel2Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-89",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel3Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-90",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:MoneyMarketFundsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "109",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "109",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "—"
+        }
+    },
+    {
+        "id": "c-91",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel1Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "109"
+        }
+    },
+    {
+        "id": "c-92",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel2Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-93",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel3Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-94",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "4,122",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "4,124",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "2"
+        }
+    },
+    {
+        "id": "c-95",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-96",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "4,122"
+        }
+    },
+    {
+        "id": "c-97",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-98",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "5,136",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "5,136",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "1",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "1"
+        }
+    },
+    {
+        "id": "c-99",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-100",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "5,136"
+        }
+    },
+    {
+        "id": "c-101",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:USGovernmentDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-102",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "420",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "423",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "1",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "4"
+        }
+    },
+    {
+        "id": "c-103",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-104",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "420"
+        }
+    },
+    {
+        "id": "c-105",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-106",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "480",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "485",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "1",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "6"
+        }
+    },
+    {
+        "id": "c-107",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-108",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "480"
+        }
+    },
+    {
+        "id": "c-109",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CorporateDebtSecuritiesMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-110",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "tsla:CertificatesOfDepositAndTimeDepositsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "8,155",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "8,155",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "—"
+        }
+    },
+    {
+        "id": "c-111",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "tsla:CertificatesOfDepositAndTimeDepositsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-112",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "tsla:CertificatesOfDepositAndTimeDepositsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "8,155"
+        }
+    },
+    {
+        "id": "c-113",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel3Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-114",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "tsla:CertificatesOfDepositAndTimeDepositsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "6,996",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "6,995",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "1",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "—"
+        }
+    },
+    {
+        "id": "c-115",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "tsla:CertificatesOfDepositAndTimeDepositsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-116",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "tsla:CertificatesOfDepositAndTimeDepositsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "6,996"
+        }
+    },
+    {
+        "id": "c-117",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel3Member",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-118",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "2,411",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "2,414",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "3"
+        }
+    },
+    {
+        "id": "c-119",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-120",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "2,411"
+        }
+    },
+    {
+        "id": "c-121",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-122",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "470",
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "470",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "—"
+        }
+    },
+    {
+        "id": "c-123",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-124",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "470"
+        }
+    },
+    {
+        "id": "c-125",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-126",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel1Member",
+        "child": {
+            "us-gaap:AssetsFairValueDisclosure": "368"
+        }
+    },
+    {
+        "id": "c-127",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel2Member",
+        "child": {
+            "us-gaap:AssetsFairValueDisclosure": "15,108"
+        }
+    },
+    {
+        "id": "c-128",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel3Member",
+        "child": {
+            "us-gaap:AssetsFairValueDisclosure": "—"
+        }
+    },
+    {
+        "id": "c-129",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel1Member",
+        "child": {
+            "us-gaap:AssetsFairValueDisclosure": "109"
+        }
+    },
+    {
+        "id": "c-130",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel2Member",
+        "child": {
+            "us-gaap:AssetsFairValueDisclosure": "13,082"
+        }
+    },
+    {
+        "id": "c-131",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FairValueByFairValueHierarchyLevelAxis",
+        "member": "us-gaap:FairValueInputsLevel3Member",
+        "child": {
+            "us-gaap:AssetsFairValueDisclosure": "—"
+        }
+    },
+    {
+        "id": "c-132",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CashMember",
+        "child": {
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "11,387",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "—",
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "11,387"
+        }
+    },
+    {
+        "id": "c-133",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "11,387"
+        }
+    },
+    {
+        "id": "c-134",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-135",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "368"
+        }
+    },
+    {
+        "id": "c-136",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-137",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-138",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "4,122"
+        }
+    },
+    {
+        "id": "c-139",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-140",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "420"
+        }
+    },
+    {
+        "id": "c-141",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-142",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "8,155"
+        }
+    },
+    {
+        "id": "c-143",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "50"
+        }
+    },
+    {
+        "id": "c-144",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "2,361"
+        }
+    },
+    {
+        "id": "c-145",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "11,805"
+        }
+    },
+    {
+        "id": "c-146",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "15,058"
+        }
+    },
+    {
+        "id": "c-147",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:FinancialInstrumentAxis",
+        "member": "us-gaap:CashMember",
+        "child": {
+            "us-gaap:AvailableForSaleDebtSecuritiesAmortizedCostBasis": "15,903",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax": "—",
+            "us-gaap:AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax": "—",
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "15,903"
+        }
+    },
+    {
+        "id": "c-148",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "15,903"
+        }
+    },
+    {
+        "id": "c-149",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-150",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "109"
+        }
+    },
+    {
+        "id": "c-151",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-152",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "277"
+        }
+    },
+    {
+        "id": "c-153",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "4,859"
+        }
+    },
+    {
+        "id": "c-154",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-155",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "480"
+        }
+    },
+    {
+        "id": "c-156",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "—"
+        }
+    },
+    {
+        "id": "c-157",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "6,996"
+        }
+    },
+    {
+        "id": "c-158",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "109"
+        }
+    },
+    {
+        "id": "c-159",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "361"
+        }
+    },
+    {
+        "id": "c-160",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:CashAndCashEquivalentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "16,398"
+        }
+    },
+    {
+        "id": "c-161",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:BalanceSheetLocationAxis",
+        "member": "us-gaap:ShortTermInvestmentsMember",
+        "child": {
+            "us-gaap:AvailableForSaleSecuritiesDebtSecurities": "12,696"
+        }
+    },
+    {
+        "id": "c-162",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "2.00",
+            "us-gaap:DebtCurrent": "21",
+            "us-gaap:LongTermDebt": "—",
+            "us-gaap:DebtInstrumentCarryingAmount": "21",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-164",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:DebtInstrumentAxis",
+        "member": "tsla:ConvertibleSeniorNotesMember",
+        "child": {
+            "us-gaap:LongTermDebt": "21",
+            "us-gaap:LongTermDebtFairValue": "180"
+        }
+    },
+    {
+        "id": "c-165",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:DebtInstrumentAxis",
+        "member": "tsla:ConvertibleSeniorNotesMember",
+        "child": {
+            "us-gaap:LongTermDebt": "37",
+            "us-gaap:LongTermDebtFairValue": "443"
+        }
+    },
+    {
+        "id": "c-166",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:DebtInstrumentAxis",
+        "member": "tsla:DigitalAssetsMember",
+        "child": {
+            "tsla:DigitalAssetsNetNonCurrent": "184",
+            "tsla:FairMarketValueOfIntangibleAssets": "821"
+        }
+    },
+    {
+        "id": "c-167",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:DebtInstrumentAxis",
+        "member": "tsla:DigitalAssetsMember",
+        "child": {
+            "tsla:DigitalAssetsNetNonCurrent": "184",
+            "tsla:FairMarketValueOfIntangibleAssets": "487"
+        }
+    },
+    {
+        "id": "c-170",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "tsla:MachineryEquipmentVehiclesAndOfficeFurnitureMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "16,942"
+        }
+    },
+    {
+        "id": "c-171",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "tsla:MachineryEquipmentVehiclesAndOfficeFurnitureMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "16,309"
+        }
+    },
+    {
+        "id": "c-172",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:ToolsDiesAndMoldsMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "3,480"
+        }
+    },
+    {
+        "id": "c-173",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:ToolsDiesAndMoldsMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "3,129"
+        }
+    },
+    {
+        "id": "c-174",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:LeaseholdImprovementsMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "3,291"
+        }
+    },
+    {
+        "id": "c-175",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:LeaseholdImprovementsMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "3,136"
+        }
+    },
+    {
+        "id": "c-176",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:LandAndBuildingMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "9,852"
+        }
+    },
+    {
+        "id": "c-177",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:LandAndBuildingMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "9,498"
+        }
+    },
+    {
+        "id": "c-178",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:TechnologyEquipmentMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "2,255"
+        }
+    },
+    {
+        "id": "c-179",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:TechnologyEquipmentMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "1,510"
+        }
+    },
+    {
+        "id": "c-180",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:ComputerEquipmentMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "2,534"
+        }
+    },
+    {
+        "id": "c-181",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:ComputerEquipmentMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "2,409"
+        }
+    },
+    {
+        "id": "c-182",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:ConstructionInProgressMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "5,934"
+        }
+    },
+    {
+        "id": "c-183",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:PropertyPlantAndEquipmentByTypeAxis",
+        "member": "us-gaap:ConstructionInProgressMember",
+        "child": {
+            "us-gaap:PropertyPlantAndEquipmentGross": "5,791"
+        }
+    },
+    {
+        "id": "c-184",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "—",
+            "us-gaap:LongTermDebt": "—",
+            "us-gaap:DebtInstrumentCarryingAmount": "—",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "5,000"
+        }
+    },
+    {
+        "id": "c-186",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "1",
+            "us-gaap:LongTermDebt": "6",
+            "us-gaap:DebtInstrumentCarryingAmount": "7",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-187",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "4.70"
+        }
+    },
+    {
+        "id": "c-188",
+        "instant": "2024-03-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MaximumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "5.75"
+        }
+    },
+    {
+        "id": "c-190",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "26",
+            "us-gaap:LongTermDebt": "—",
+            "us-gaap:DebtInstrumentCarryingAmount": "26",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—",
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "5.20"
+        }
+    },
+    {
+        "id": "c-192",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "48",
+            "us-gaap:LongTermDebt": "6",
+            "us-gaap:DebtInstrumentCarryingAmount": "54",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "5,000"
+        }
+    },
+    {
+        "id": "c-193",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "2,054",
+            "us-gaap:LongTermDebt": "2,405",
+            "us-gaap:DebtInstrumentCarryingAmount": "4,475",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-194",
+        "instant": "2024-03-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MinimumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "0.60"
+        }
+    },
+    {
+        "id": "c-195",
+        "instant": "2024-03-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MaximumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "6.57"
+        }
+    },
+    {
+        "id": "c-197",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "4",
+            "us-gaap:LongTermDebt": "7",
+            "us-gaap:DebtInstrumentCarryingAmount": "12",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—",
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "4.80"
+        }
+    },
+    {
+        "id": "c-199",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "29",
+            "us-gaap:LongTermDebt": "321",
+            "us-gaap:DebtInstrumentCarryingAmount": "359",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-200",
+        "instant": "2024-03-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MinimumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "5.25"
+        }
+    },
+    {
+        "id": "c-201",
+        "instant": "2024-03-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MaximumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "5.81"
+        }
+    },
+    {
+        "id": "c-203",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "2,087",
+            "us-gaap:LongTermDebt": "2,733",
+            "us-gaap:DebtInstrumentCarryingAmount": "4,846",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-204",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "37",
+            "us-gaap:LongTermDebt": "—",
+            "us-gaap:DebtInstrumentCarryingAmount": "37",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—",
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "2.00"
+        }
+    },
+    {
+        "id": "c-206",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "—",
+            "us-gaap:LongTermDebt": "—",
+            "us-gaap:DebtInstrumentCarryingAmount": "—",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "5,000"
+        }
+    },
+    {
+        "id": "c-208",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "—",
+            "us-gaap:LongTermDebt": "7",
+            "us-gaap:DebtInstrumentCarryingAmount": "7",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-209",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "4.70"
+        }
+    },
+    {
+        "id": "c-210",
+        "instant": "2023-12-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MaximumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "5.75"
+        }
+    },
+    {
+        "id": "c-212",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "—",
+            "us-gaap:LongTermDebt": "—",
+            "us-gaap:DebtInstrumentCarryingAmount": "—",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "28"
+        }
+    },
+    {
+        "id": "c-214",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "37",
+            "us-gaap:LongTermDebt": "7",
+            "us-gaap:DebtInstrumentCarryingAmount": "44",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "5,028"
+        }
+    },
+    {
+        "id": "c-215",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "1,906",
+            "us-gaap:LongTermDebt": "2,337",
+            "us-gaap:DebtInstrumentCarryingAmount": "4,259",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-216",
+        "instant": "2023-12-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MinimumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "0.60"
+        }
+    },
+    {
+        "id": "c-217",
+        "instant": "2023-12-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MaximumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "6.57"
+        }
+    },
+    {
+        "id": "c-219",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "4",
+            "us-gaap:LongTermDebt": "8",
+            "us-gaap:DebtInstrumentCarryingAmount": "13",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—",
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "4.80"
+        }
+    },
+    {
+        "id": "c-221",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "28",
+            "us-gaap:LongTermDebt": "330",
+            "us-gaap:DebtInstrumentCarryingAmount": "367",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-222",
+        "instant": "2023-12-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MinimumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "5.25"
+        }
+    },
+    {
+        "id": "c-223",
+        "instant": "2023-12-31",
+        "dimension": "srt:RangeAxis",
+        "member": "srt:MaximumMember",
+        "child": {
+            "us-gaap:DebtInstrumentInterestRateStatedPercentage": "5.81"
+        }
+    },
+    {
+        "id": "c-225",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {
+            "us-gaap:DebtCurrent": "1,938",
+            "us-gaap:LongTermDebt": "2,675",
+            "us-gaap:DebtInstrumentCarryingAmount": "4,639",
+            "us-gaap:DebtInstrumentUnusedBorrowingCapacityAmount": "—"
+        }
+    },
+    {
+        "id": "c-226",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "us-gaap:SeniorNotesMember",
+        "child": {
+            "us-gaap:DebtInstrumentFaceAmount": "750"
+        }
+    },
+    {
+        "id": "c-228",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:AwardTypeAxis",
+        "member": "tsla:PerformanceBasedRestrictedStockUnitsAndStockOptionsMember",
+        "child": {
+            "us-gaap:EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized": "613",
+            "tsla:ShareBasedPaymentArrangementNonvestedAwardProbableOfAchievementCostNotYetRecognizedAmount": "104"
+        }
+    },
+    {
+        "id": "c-238",
+        "instant": "2021-11-15",
+        "dimension": "srt:ConsolidatedEntitiesAxis",
+        "member": "exch:JPCB",
+        "child": {
+            "tsla:AdditionalSharesClaimValue": "162"
+        }
+    },
+    {
+        "id": "c-245",
+        "instant": "2024-03-31",
+        "dimension": "srt:ConsolidatedEntitiesAxis",
+        "member": "us-gaap:VariableInterestEntityPrimaryBeneficiaryMember",
+        "child": {
+            "us-gaap:CashAndCashEquivalentsAtCarryingValue": "51",
+            "us-gaap:AccountsReceivableNetCurrent": "17",
+            "us-gaap:PrepaidExpenseAndOtherAssetsCurrent": "345",
+            "us-gaap:AssetsCurrent": "413",
+            "us-gaap:OtherAssetsNoncurrent": "334",
+            "us-gaap:Assets": "3,334",
+            "tsla:AccruedAndOtherCurrentLiabilities": "29",
+            "us-gaap:ContractWithCustomerLiabilityCurrent": "5",
+            "tsla:LongTermDebtAndFinanceLeasesCurrent": "1,905",
+            "us-gaap:LiabilitiesCurrent": "1,939",
+            "us-gaap:ContractWithCustomerLiabilityNoncurrent": "86",
+            "tsla:LongTermDebtAndFinanceLeasesNoncurrent": "1,997",
+            "us-gaap:Liabilities": "4,022"
+        }
+    },
+    {
+        "id": "c-246",
+        "instant": "2023-12-31",
+        "dimension": "srt:ConsolidatedEntitiesAxis",
+        "member": "us-gaap:VariableInterestEntityPrimaryBeneficiaryMember",
+        "child": {
+            "us-gaap:CashAndCashEquivalentsAtCarryingValue": "66",
+            "us-gaap:AccountsReceivableNetCurrent": "13",
+            "us-gaap:PrepaidExpenseAndOtherAssetsCurrent": "361",
+            "us-gaap:AssetsCurrent": "440",
+            "us-gaap:OtherAssetsNoncurrent": "369",
+            "us-gaap:Assets": "4,087",
+            "tsla:AccruedAndOtherCurrentLiabilities": "67",
+            "us-gaap:ContractWithCustomerLiabilityCurrent": "6",
+            "tsla:LongTermDebtAndFinanceLeasesCurrent": "1,564",
+            "us-gaap:LiabilitiesCurrent": "1,637",
+            "us-gaap:ContractWithCustomerLiabilityNoncurrent": "99",
+            "tsla:LongTermDebtAndFinanceLeasesNoncurrent": "2,041",
+            "us-gaap:Liabilities": "3,777"
+        }
+    },
+    {
+        "id": "c-247",
+        "instant": "2024-03-31",
+        "dimension": "srt:ConsolidatedEntitiesAxis",
+        "member": "us-gaap:VariableInterestEntityPrimaryBeneficiaryMember",
+        "child": {
+            "tsla:OperatingLeasedAssetsNet": "2,587"
+        }
+    },
+    {
+        "id": "c-248",
+        "instant": "2023-12-31",
+        "dimension": "srt:ConsolidatedEntitiesAxis",
+        "member": "us-gaap:VariableInterestEntityPrimaryBeneficiaryMember",
+        "child": {
+            "tsla:OperatingLeasedAssetsNet": "3,278"
+        }
+    },
+    {
+        "id": "c-259",
+        "instant": "2024-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:US",
+        "child": {
+            "us-gaap:NoncurrentAssets": "28,274"
+        }
+    },
+    {
+        "id": "c-260",
+        "instant": "2023-12-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:US",
+        "child": {
+            "us-gaap:NoncurrentAssets": "26,629"
+        }
+    },
+    {
+        "id": "c-261",
+        "instant": "2024-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:DE",
+        "child": {
+            "us-gaap:NoncurrentAssets": "4,228"
+        }
+    },
+    {
+        "id": "c-262",
+        "instant": "2023-12-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:DE",
+        "child": {
+            "us-gaap:NoncurrentAssets": "4,258"
+        }
+    },
+    {
+        "id": "c-263",
+        "instant": "2024-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:CN",
+        "child": {
+            "us-gaap:NoncurrentAssets": "2,755"
+        }
+    },
+    {
+        "id": "c-264",
+        "instant": "2023-12-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:CN",
+        "child": {
+            "us-gaap:NoncurrentAssets": "2,820"
+        }
+    },
+    {
+        "id": "c-265",
+        "instant": "2024-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "tsla:OtherInternationalMember",
+        "child": {
+            "us-gaap:NoncurrentAssets": "1,341"
+        }
+    },
+    {
+        "id": "c-266",
+        "instant": "2023-12-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "tsla:OtherInternationalMember",
+        "child": {
+            "us-gaap:NoncurrentAssets": "1,247"
+        }
+    },
+    {
+        "id": "c-267",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:AutomotiveSegmentMember",
+        "child": {
+            "us-gaap:InventoryNet": "13,587"
+        }
+    },
+    {
+        "id": "c-268",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:AutomotiveSegmentMember",
+        "child": {
+            "us-gaap:InventoryNet": "11,139"
+        }
+    },
+    {
+        "id": "c-269",
+        "instant": "2024-03-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:InventoryNet": "2,446"
+        }
+    },
+    {
+        "id": "c-270",
+        "instant": "2023-12-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:InventoryNet": "2,487"
+        }
+    },
+    {
+        "id": "c-271",
+        "instant": "2024-04-30",
+        "dimension": "us-gaap:SubsequentEventTypeAxis",
+        "member": "us-gaap:SubsequentEventMember",
+        "child": {
+            "us-gaap:RestructuringAndRelatedCostExpectedCost1": "350"
+        }
+    },
+    {
+        "id": "c-273",
+        "instant": "2024-03-31",
+        "dimension": "ecd:IndividualAxis",
+        "member": "tsla:KathleenWilsonThompsonMember",
+        "child": {
+            "ecd:TrdArrSecuritiesAggAvailAmt": "280,000"
+        }
+    }
+]

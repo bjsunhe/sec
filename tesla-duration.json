@@ -1,0 +1,675 @@
+[
+    {
+        "id": "c-9",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveSalesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "16,460",
+            "us-gaap:CostOfRevenue": "13,897",
+            "us-gaap:ContractWithCustomerLiabilityRevenueRecognized": "281"
+        }
+    },
+    {
+        "id": "c-10",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveSalesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "18,878",
+            "us-gaap:CostOfRevenue": "15,422",
+            "us-gaap:ContractWithCustomerLiabilityRevenueRecognized": "134"
+        }
+    },
+    {
+        "id": "c-11",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveRegulatoryCreditsMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "442"
+        }
+    },
+    {
+        "id": "c-12",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveRegulatoryCreditsMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "521"
+        }
+    },
+    {
+        "id": "c-13",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveLeasingMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "476",
+            "us-gaap:CostOfRevenue": "269"
+        }
+    },
+    {
+        "id": "c-14",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveLeasingMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "564",
+            "us-gaap:CostOfRevenue": "333"
+        }
+    },
+    {
+        "id": "c-15",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveRevenuesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "17,378",
+            "us-gaap:CostOfRevenue": "14,166"
+        }
+    },
+    {
+        "id": "c-16",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:AutomotiveRevenuesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "19,963",
+            "us-gaap:CostOfRevenue": "15,755"
+        }
+    },
+    {
+        "id": "c-17",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "1,635",
+            "us-gaap:CostOfRevenue": "1,232"
+        }
+    },
+    {
+        "id": "c-18",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "1,529",
+            "us-gaap:CostOfRevenue": "1,361"
+        }
+    },
+    {
+        "id": "c-19",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:ServicesAndOtherMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "2,288",
+            "us-gaap:CostOfRevenue": "2,207"
+        }
+    },
+    {
+        "id": "c-20",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:ServicesAndOtherMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "1,837",
+            "us-gaap:CostOfRevenue": "1,702"
+        }
+    },
+    {
+        "id": "c-28",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:CommonStockMember",
+        "child": {
+            "tsla:StockIssuedDuringPeriodSharesEquityIncentiveAwards": "4"
+        }
+    },
+    {
+        "id": "c-29",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AdditionalPaidInCapitalMember",
+        "child": {
+            "tsla:StockIssuedDuringPeriodValueEquityIncentiveAwards": "251",
+            "us-gaap:AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue": "578",
+            "us-gaap:MinorityInterestDecreaseFromRedemptions": "42"
+        }
+    },
+    {
+        "id": "c-30",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:ParentMember",
+        "child": {
+            "tsla:StockIssuedDuringPeriodValueEquityIncentiveAwards": "251",
+            "us-gaap:AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue": "578",
+            "us-gaap:MinorityInterestDecreaseFromRedemptions": "42",
+            "tsla:NetIncomeLossIncludingPortionAttributableToRedeemableNonControllingInterestAndNonControllingInterestInSubsidiaries": "1,129",
+            "us-gaap:OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "256"
+        }
+    },
+    {
+        "id": "c-31",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:NoncontrollingInterestMember",
+        "child": {
+            "us-gaap:MinorityInterestDecreaseFromDistributionsToNoncontrollingInterestHolders": "16",
+            "tsla:NetIncomeLossIncludingPortionAttributableToRedeemableNonControllingInterestAndNonControllingInterestInSubsidiaries": "12"
+        }
+    },
+    {
+        "id": "c-32",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:RetainedEarningsMember",
+        "child": {
+            "tsla:NetIncomeLossIncludingPortionAttributableToRedeemableNonControllingInterestAndNonControllingInterestInSubsidiaries": "1,129"
+        }
+    },
+    {
+        "id": "c-33",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AccumulatedOtherComprehensiveIncomeMember",
+        "child": {
+            "us-gaap:OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "256"
+        }
+    },
+    {
+        "id": "c-47",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:CommonStockMember",
+        "child": {
+            "tsla:StockIssuedDuringPeriodSharesEquityIncentiveAwards": "5"
+        }
+    },
+    {
+        "id": "c-48",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AdditionalPaidInCapitalMember",
+        "child": {
+            "tsla:StockIssuedDuringPeriodValueEquityIncentiveAwards": "231",
+            "us-gaap:AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue": "465",
+            "us-gaap:MinorityInterestDecreaseFromRedemptions": "5"
+        }
+    },
+    {
+        "id": "c-49",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:ParentMember",
+        "child": {
+            "tsla:StockIssuedDuringPeriodValueEquityIncentiveAwards": "231",
+            "us-gaap:AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue": "465",
+            "us-gaap:MinorityInterestDecreaseFromRedemptions": "5",
+            "tsla:NetIncomeLossIncludingPortionAttributableToRedeemableNonControllingInterestAndNonControllingInterestInSubsidiaries": "2,513",
+            "us-gaap:OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "136"
+        }
+    },
+    {
+        "id": "c-50",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:NoncontrollingInterestMember",
+        "child": {
+            "us-gaap:MinorityInterestDecreaseFromDistributionsToNoncontrollingInterestHolders": "22",
+            "us-gaap:MinorityInterestDecreaseFromRedemptions": "12",
+            "tsla:NetIncomeLossIncludingPortionAttributableToRedeemableNonControllingInterestAndNonControllingInterestInSubsidiaries": "23"
+        }
+    },
+    {
+        "id": "c-51",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:RetainedEarningsMember",
+        "child": {
+            "tsla:NetIncomeLossIncludingPortionAttributableToRedeemableNonControllingInterestAndNonControllingInterestInSubsidiaries": "2,513"
+        }
+    },
+    {
+        "id": "c-52",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementEquityComponentsAxis",
+        "member": "us-gaap:AccumulatedOtherComprehensiveIncomeMember",
+        "child": {
+            "us-gaap:OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "136"
+        }
+    },
+    {
+        "id": "c-60",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageSalesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "1,522"
+        }
+    },
+    {
+        "id": "c-61",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageSalesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "1,413"
+        }
+    },
+    {
+        "id": "c-62",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:SalesAndServicesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "20,712"
+        }
+    },
+    {
+        "id": "c-63",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:SalesAndServicesMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "22,649"
+        }
+    },
+    {
+        "id": "c-64",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageLeasingMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "113"
+        }
+    },
+    {
+        "id": "c-65",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageLeasingMember",
+        "child": {
+            "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax": "116"
+        }
+    },
+    {
+        "id": "c-77",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:ContractWithCustomerLiabilityRevenueRecognized": "417"
+        }
+    },
+    {
+        "id": "c-78",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:ProductOrServiceAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:ContractWithCustomerLiabilityRevenueRecognized": "230"
+        }
+    },
+    {
+        "id": "c-82",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis",
+        "member": "tsla:StockBasedAwardsMember",
+        "child": {
+            "us-gaap:AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount": "23"
+        }
+    },
+    {
+        "id": "c-83",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis",
+        "member": "tsla:StockBasedAwardsMember",
+        "child": {
+            "us-gaap:AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount": "25"
+        }
+    },
+    {
+        "id": "c-163",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-168",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:IncomeStatementLocationAxis",
+        "member": "us-gaap:CostOfSalesMember",
+        "child": {
+            "us-gaap:InventoryWriteDown": "39",
+            "us-gaap:AllocatedShareBasedCompensationExpense": "192"
+        }
+    },
+    {
+        "id": "c-169",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:IncomeStatementLocationAxis",
+        "member": "us-gaap:CostOfSalesMember",
+        "child": {
+            "us-gaap:InventoryWriteDown": "39",
+            "us-gaap:AllocatedShareBasedCompensationExpense": "202"
+        }
+    },
+    {
+        "id": "c-185",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-189",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-191",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-196",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-198",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-202",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-205",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-207",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-211",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-213",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:RecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-218",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-220",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-224",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "tsla:NonrecourseDebtMember",
+        "child": {}
+    },
+    {
+        "id": "c-227",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:LongtermDebtTypeAxis",
+        "member": "us-gaap:SeniorNotesMember",
+        "child": {
+            "us-gaap:ProceedsFromDebtNetOfIssuanceCosts": "747"
+        }
+    },
+    {
+        "id": "c-229",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:AwardTypeAxis",
+        "member": "tsla:PerformanceBasedRestrictedStockUnitsAndStockOptionsMember",
+        "child": {
+            "us-gaap:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod": "5.0"
+        }
+    },
+    {
+        "id": "c-230",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:IncomeStatementLocationAxis",
+        "member": "us-gaap:ResearchAndDevelopmentExpenseMember",
+        "child": {
+            "us-gaap:AllocatedShareBasedCompensationExpense": "212"
+        }
+    },
+    {
+        "id": "c-231",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:IncomeStatementLocationAxis",
+        "member": "us-gaap:ResearchAndDevelopmentExpenseMember",
+        "child": {
+            "us-gaap:AllocatedShareBasedCompensationExpense": "134"
+        }
+    },
+    {
+        "id": "c-232",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:IncomeStatementLocationAxis",
+        "member": "tsla:SellingGeneralAndAdministrativeExpenseMember",
+        "child": {
+            "us-gaap:AllocatedShareBasedCompensationExpense": "110"
+        }
+    },
+    {
+        "id": "c-233",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:IncomeStatementLocationAxis",
+        "member": "tsla:SellingGeneralAndAdministrativeExpenseMember",
+        "child": {
+            "us-gaap:AllocatedShareBasedCompensationExpense": "92"
+        }
+    },
+    {
+        "id": "c-249",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:AutomotiveSegmentMember",
+        "child": {
+            "us-gaap:Revenues": "19,666",
+            "us-gaap:GrossProfit": "3,293"
+        }
+    },
+    {
+        "id": "c-250",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:AutomotiveSegmentMember",
+        "child": {
+            "us-gaap:Revenues": "21,800",
+            "us-gaap:GrossProfit": "4,343"
+        }
+    },
+    {
+        "id": "c-251",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:Revenues": "1,635",
+            "us-gaap:GrossProfit": "403"
+        }
+    },
+    {
+        "id": "c-252",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "us-gaap:StatementBusinessSegmentsAxis",
+        "member": "tsla:EnergyGenerationAndStorageSegmentMember",
+        "child": {
+            "us-gaap:Revenues": "1,529",
+            "us-gaap:GrossProfit": "168"
+        }
+    },
+    {
+        "id": "c-253",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:US",
+        "child": {
+            "us-gaap:Revenues": "9,762"
+        }
+    },
+    {
+        "id": "c-254",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:US",
+        "child": {
+            "us-gaap:Revenues": "11,247"
+        }
+    },
+    {
+        "id": "c-255",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:CN",
+        "child": {
+            "us-gaap:Revenues": "4,592"
+        }
+    },
+    {
+        "id": "c-256",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "country:CN",
+        "child": {
+            "us-gaap:Revenues": "4,891"
+        }
+    },
+    {
+        "id": "c-257",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "tsla:OtherCountriesMember",
+        "child": {
+            "us-gaap:Revenues": "6,947"
+        }
+    },
+    {
+        "id": "c-258",
+        "startDate": "2023-01-01",
+        "endDate": "2023-03-31",
+        "dimension": "srt:StatementGeographicalAxis",
+        "member": "tsla:OtherCountriesMember",
+        "child": {
+            "us-gaap:Revenues": "7,191"
+        }
+    },
+    {
+        "id": "c-272",
+        "startDate": "2024-01-01",
+        "endDate": "2024-03-31",
+        "dimension": "ecd:IndividualAxis",
+        "member": "tsla:KathleenWilsonThompsonMember",
+        "child": {}
+    }
+]
